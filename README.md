@@ -13,7 +13,7 @@ Amazon Linux または CentOS 6/7 以上を想定しています
 ## 使い方
 
 ```
-curl -o base.sh | bash
+curl -fsL https://raw.githubusercontent.com/moobay9/migrate/master/base.sh | bash
 
 
 ```
